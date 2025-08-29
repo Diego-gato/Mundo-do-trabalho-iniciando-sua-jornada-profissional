@@ -59,10 +59,17 @@ EXPERIÊNCIA PROFISSIONAL
 
 
 FORMAÇÃO ACADÊMICA
-Colégio Start – 2ª série do ensino médio (previsão de conclusão em 2026) 
-    • Estudante do itinerário formativo na área de Matemática e suas Tecnologias. 
-    • Medalhista de prata no concurso de programação da Start – categoria JavaScript edição 2024. 
-    • Representante do time de Futsal – sub 17. 
+🎓 Curso Técnico em Mecânica Industrial
+Serviço Nacional de Aprendizagem Industrial (SENAI)
+Conclusão: Dezembro de 2018
+
+🎓 Ensino Médio Completo
+Escola Estadual Professor Silva e Souza
+Conclusão: Dezembro de 2016
+
+🎓 Curso de Especialização em Manutenção de Máquinas Pesadas
+Instituto Federal de Educação, Ciência e Tecnologia (IFSP)
+Conclusão: Junho de 2020 | Carga horária: 120 horas
 
 
 
