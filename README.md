@@ -12,6 +12,9 @@ Técnico de Maquinário com experiência em manutenção corretiva e preventiva 
 
 
 
+
+
+
 HABILIDADES
 
   • Manutenção de máquinas industriais
@@ -51,11 +54,19 @@ EXPERIÊNCIA PROFISSIONAL
 
 
 
+
+
+
+
 FORMAÇÃO ACADÊMICA
 Colégio Start – 2ª série do ensino médio (previsão de conclusão em 2026) 
     • Estudante do itinerário formativo na área de Matemática e suas Tecnologias. 
     • Medalhista de prata no concurso de programação da Start – categoria JavaScript edição 2024. 
     • Representante do time de Futsal – sub 17. 
+
+
+
+
 
 • CURSOS | CERTIFICAÇÕES
 • Curso de NR-12 (Segurança no Trabalho em Máquinas)
